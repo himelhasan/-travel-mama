@@ -80,7 +80,7 @@ const Header = ({ fixed }) => {
               <li>
                 <Link
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  to="contact"
+                  to="register"
                 >
                   <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i>
                   <span className="ml-2">Register</span>
